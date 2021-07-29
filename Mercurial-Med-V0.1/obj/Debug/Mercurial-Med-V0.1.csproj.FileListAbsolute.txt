@@ -1,0 +1,786 @@
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csprojAssemblyReference.cache
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Funcionarios.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Pacientes.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.tl_Inicial.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Properties.Resources.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Login.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Marcar_Consulta.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Menu.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Pacientes_Marcados.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Receituario.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Relatorio_de_Consulta.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.GenerateResource.cache
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CoreCompileInputs.cache
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe.config
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.dll
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CopyComplete
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.exe
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Medico.resources
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.dll
+C:\Users\PnrGuadalupe\source\repos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.xml
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe.config
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.pdb
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.dll
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.dll
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.dll
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.dll
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.dll
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.xml
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.xml
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.xml
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.xml
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.xml
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csprojAssemblyReference.cache
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Funcionarios.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Pacientes.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.tl_Inicial.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Properties.Resources.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Login.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Marcar_Consulta.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Medico.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Menu.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Pacientes_Marcados.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Receituario.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Relatorio_de_Consulta.resources
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.GenerateResource.cache
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CopyComplete
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.exe
+F:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe.config
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.dll
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Funcionarios.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Pacientes.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.tl_Inicial.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Login.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Marcar_Consulta.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Medico.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Menu.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Pacientes_Marcados.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Receituario.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Relatorio_de_Consulta.resources
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.exe
+C:\Users\Usuario\Desktop\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.pdb
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe.config
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.pdb
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.xml
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.xml
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.xml
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.xml
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csprojAssemblyReference.cache
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Funcionarios.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Pacientes.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.tl_Inicial.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Properties.Resources.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Login.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Marcar_Consulta.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Medico.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Menu.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Pacientes_Marcados.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Receituario.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Relatorio_de_Consulta.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.GenerateResource.cache
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CopyComplete
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.exe
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe.config
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\EnvDTE.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\stdole.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.xml
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csprojAssemblyReference.cache
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Funcionarios.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Pacientes.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.tl_Inicial.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Properties.Resources.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Login.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Marcar_Consulta.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Medico.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Menu.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Pacientes_Marcados.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Receituario.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Relatorio_de_Consulta.resources
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.GenerateResource.cache
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\RdlCompile.cache
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\RdlCompile.compiled
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CopyComplete
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.exe
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\PnrGuadalupe\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Imprimir.resources
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\EnvDTE.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\stdole.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.MSXML.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Imprimir.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe.config
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\EnvDTE.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\stdole.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.xml
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csprojAssemblyReference.cache
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Funcionarios.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Pacientes.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Imprimir.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.tl_Inicial.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Properties.Resources.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Login.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Marcar_Consulta.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Medico.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Menu.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Pacientes_Marcados.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Receituario.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Relatorio_de_Consulta.resources
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.GenerateResource.cache
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\RdlCompile.cache
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\RdlCompile.compiled
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CopyComplete
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.exe
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Correios.dll
+C:\Users\PnrGuadalupe\Documents\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Correios.pdb
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Correios.dll
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Correios.pdb
+D:\Mercurial Med\Mercurial-Med2.0\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CoreCompileInputs.cache
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe.config
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.pdb
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Correios.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\EnvDTE.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\stdole.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.MSXML.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Correios.pdb
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.xml
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.xml
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.xml
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csprojAssemblyReference.cache
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Funcionarios.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Pacientes.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Imprimir.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.tl_Inicial.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Properties.Resources.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Login.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Marcar_Consulta.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Medico.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Menu.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Pacientes_Marcados.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Receituario.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Relatorio_de_Consulta.resources
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.GenerateResource.cache
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\RdlCompile.cache
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\RdlCompile.compiled
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CopyComplete
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.exe
+D:\Projetos\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe.config
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Correios.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\EnvDTE.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\stdole.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Correios.pdb
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.xml
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csprojAssemblyReference.cache
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Funcionarios.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Imprimir.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.tl_Inicial.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Properties.Resources.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Login.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Marcar_Consulta.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Medico.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Menu.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Pacientes_Marcados.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Receituario.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Relatorio_de_Consulta.resources
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.GenerateResource.cache
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CopyComplete
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.exe
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\Usuário\Downloads\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.Cad_Paciente.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe.config
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.pdb
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Correios.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\EnvDTE.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\stdole.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Correios.pdb
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\RestSharp.xml
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csprojAssemblyReference.cache
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Funcionarios.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.Cad_Paciente.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Imprimir.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.tl_Inicial.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Properties.Resources.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Login.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Marcar_Consulta.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Medico.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Menu.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Pacientes_Marcados.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Receituario.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Relatorio_de_Consulta.resources
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.GenerateResource.cache
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\RdlCompile.cache
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\RdlCompile.compiled
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CopyComplete
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.exe
+C:\Users\juanh\OneDrive\Área de Trabalho\Mercurial-Med-V0.1\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.pdb
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe.config
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.exe
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Mercurial-Med-V0.1.pdb
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Correios.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\FireSharp.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\RestSharp.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\EnvDTE.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\stdole.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.MSXML.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Correios.pdb
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\RestSharp.xml
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Extensions.xml
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\System.Net.Http.Primitives.xml
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.AssemblyReference.cache
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Cadastro_de_Funcionarios.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.Cad_Paciente.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Imprimir.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.tl_Inicial.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Properties.Resources.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Login.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Marcar_Consulta.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Medico.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Menu.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Pacientes_Marcados.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Receituario.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial_Med_V0._1.Telas.tl_Relatorio_de_Consulta.resources
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.GenerateResource.cache
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CoreCompileInputs.cache
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.csproj.CopyComplete
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.exe
+D:\Projetos\Mercurial Med\Mercurial-Med-Concluido\Mercurial-Med-V0.1\obj\Debug\Mercurial-Med-V0.1.pdb
