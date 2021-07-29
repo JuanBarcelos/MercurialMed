@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercurial-Med-V0.1", "Mercurial-Med-V0.1\Mercurial-Med-V0.1.csproj", "{106BF65E-D982-4098-84C1-236649440645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106BF65E-D982-4098-84C1-236649440645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106BF65E-D982-4098-84C1-236649440645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106BF65E-D982-4098-84C1-236649440645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106BF65E-D982-4098-84C1-236649440645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC14FA5-B76F-46F6-837C-B08E9670F59B}
+	EndGlobalSection
+EndGlobal
